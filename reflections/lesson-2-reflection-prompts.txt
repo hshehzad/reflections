@@ -1,0 +1,4 @@
+Q1: What happens when you initialize a repository? Why do you need to do it?
+
+
+A1: it creates a running log of all commits that you will do in the repository directory. This will help us retrieve various versions of the repository in time.
