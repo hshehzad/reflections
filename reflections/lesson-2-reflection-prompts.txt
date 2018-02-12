@@ -3,3 +3,6 @@ A1: it creates a running log of all commits that you will do in the repository d
 
 Q2: How is the staging area different from the working directory and the repository? What value do you think it offers?
 A2: We can edit files in staging area and work on them before we are sure of commiting them. 
+
+Q3: How can you use the staging area to make sure you have one commit per logical change?
+A3: By adding all files that have logically changed (i.e. by running git diff command)in the working directory to the staged area. Once ou have all changes in staged area, one commit will suffice per logical change.
