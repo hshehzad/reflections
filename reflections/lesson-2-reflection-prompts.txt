@@ -12,3 +12,6 @@ A4: When you are trying to add a new experimental feature, want to develop vario
 
 Q5: How do the diagrams help you visualize the branch structure?
 A5: they show the heirarchy of code and the order of various commits. It helps in making a logical distinction between different branches and their purpose.
+
+Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
+A6: By combining the two branches togather we are combining their latest content from the last commits without duplicating.
