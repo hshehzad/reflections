@@ -9,3 +9,6 @@ A3: By adding all files that have logically changed (i.e. by running git diff co
 
 Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 A4: When you are trying to add a new experimental feature, want to develop various modes of the program
+
+Q5: How do the diagrams help you visualize the branch structure?
+A5: they show the heirarchy of code and the order of various commits. It helps in making a logical distinction between different branches and their purpose.
