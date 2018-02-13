@@ -6,3 +6,6 @@ A2: We can edit files in staging area and work on them before we are sure of com
 
 Q3: How can you use the staging area to make sure you have one commit per logical change?
 A3: By adding all files that have logically changed (i.e. by running git diff command)in the working directory to the staged area. Once ou have all changes in staged area, one commit will suffice per logical change.
+
+Q4: What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+A4: When you are trying to add a new experimental feature, want to develop various modes of the program
