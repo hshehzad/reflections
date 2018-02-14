@@ -15,3 +15,6 @@ A5: they show the heirarchy of code and the order of various commits. It helps i
 
 Q6: What is the result of merging two branches together? Why do we represent it in the diagram the way we do?
 A6: By combining the two branches togather we are combining their latest content from the last commits without duplicating.
+
+Q7: What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+A7: saves time by avoiding redundancy and task repetition
