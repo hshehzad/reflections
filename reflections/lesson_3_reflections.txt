@@ -3,3 +3,8 @@ A1: For callaboration with other people, as a cloud backup in case the local mac
 
 Q2: Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 A2: To avoid unintentional changes from other contributors working on the shared github repository to your local code. You want to have control on what changes/additions/deletions are necessary for you. 
+
+Q3: Describe the differences between forks, clones, and branches. When would you use one instead of another?
+A3: Forks: Forks are copies of repositories created using another repository on github
+    Clones: clones are copies of repositories created locally by using another repository either stored locally or from github
+    branches: branches are logical version separations within a repository used to distinguish code, contributors, features or modules
