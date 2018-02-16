@@ -1,1 +1,2 @@
-when would you want to create a remote repository rather than keeping all work local?
+Q1: when would you want to create a remote repository rather than keeping all work local?
+A1: For callaboration with other people, as a cloud backup in case the local machine becomes unavailable
